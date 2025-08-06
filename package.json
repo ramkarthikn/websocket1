@@ -1,0 +1,12 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "A simple WebSocket server",
+  "main": "your_server_file_name.js",
+  "scripts": {
+    "start": "node your_server_file_name.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.1"
+  }
+}
